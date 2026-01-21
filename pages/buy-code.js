@@ -6,7 +6,7 @@ import { saveTx } from '../utils/storage';
 import { loadTx } from "../utils/storage";
 
 
-const CODE_PRICE = 8000;
+const CODE_PRICE = 5500;
 const WA = '+2347072277091';
 
 export default function BuyCode() {
@@ -107,7 +107,7 @@ export default function BuyCode() {
               <p>Account Number: <b>6511699109</b></p>
               <p>Bank: <b>Moniepoint</b></p>
               <p>Amount: <b>₦{CODE_PRICE.toLocaleString()}</b></p>
-<p>Status: <b>PROMO 85% Discount 🔥💸💰 </b></p>
+<p>Status: <b>PROMO 90% Discount (midnight)🔥💸💰 </b></p>
             </div>
 
             {/* Countdown with emoji animation */}
