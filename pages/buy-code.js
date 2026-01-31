@@ -6,8 +6,8 @@ import { saveTx } from '../utils/storage';
 import { loadTx } from "../utils/storage";
 
 
-const CODE_PRICE = 5500;
-const WA = '+2348136347797';
+const CODE_PRICE = 8000;
+const WA = '+2348141964680';
 
 export default function BuyCode() {
   const router = useRouter();
